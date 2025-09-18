@@ -115,7 +115,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dataset source: [Include source of the diabetes dataset]
 - Streamlit for the amazing web framework
 - scikit-learn for machine learning tools
-
-## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/mr-imperium/diabetes-prediction](https://github.com/mr-imperium/diabetes-prediction)
